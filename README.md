@@ -1,7 +1,5 @@
 # Text to Video Generator
 
-![Text to Video Generator Demo](your_image_url_here)
-
 ## Introduction
 
 The Text to Video Generator is a state-of-the-art model developed by ModelScope for generating videos from textual descriptions. This model is based on a multi-stage text-to-video generation diffusion model and is capable of taking English text as input and returning videos that match the text description.
